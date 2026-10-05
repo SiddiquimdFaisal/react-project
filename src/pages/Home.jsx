@@ -43,7 +43,7 @@ function Home({
       <section className="grid">
 
         <WelcomeCard
-          name="Kaif"
+          name="Faisal"
           role="React Developer"
         />
 
